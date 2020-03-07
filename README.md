@@ -6,7 +6,7 @@ En este proyecto, se propone realizar un juego de tipo navegador, mezclando las 
 - Ventajas evolutivas debidas a elección de genes (visto en Plague-inc).
 
 # Documentación en desarrollo
-Puedes consultar la documentación actual en el siguiente enlace de [GDrive](https://docs.google.com/document/d/1CGTPqEdlTjZgkq4SoLSsR5P1FtscJvBHmCCOHLONU18/edit#) (solo usuarios autorizados).
+Puedes consultar la documentación actual en el siguiente enlace de [GDrive](https://drive.google.com/drive/folders/1-s1zLUjrhw4FrZnAm4gPr-EKTkK95cPR?usp=sharing) (solo usuarios autorizados).
 
 # Colaboradores
 - [Francisco Javier Ruano González](https://github.com/Frgpaterna)
