@@ -5,8 +5,9 @@ En este proyecto, se propone realizar un juego de tipo navegador, mezclando las 
 - Gestión de recursos y generación de eventos (basado en Civilization).
 - Ventajas evolutivas debidas a elección de genes (visto en Plague-inc).
 
-# Documentación en desarrollo
-Puedes consultar la documentación actual en el siguiente enlace de [GDrive](https://drive.google.com/drive/folders/1-s1zLUjrhw4FrZnAm4gPr-EKTkK95cPR?usp=sharing) (solo usuarios autorizados).
+# Recursos
+- Gestion de tareas/tickets: [nTask](https://app.ntaskmanager.com/teams/oscp)
+- Directorio del proyecto: [GDrive](https://drive.google.com/drive/folders/1-s1zLUjrhw4FrZnAm4gPr-EKTkK95cPR?usp=sharing)
 
 # Colaboradores
 - [Francisco Javier Ruano González](https://github.com/Frgpaterna)
